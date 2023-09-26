@@ -3,6 +3,9 @@
     "name": "git-GDrive",
     "description": "experiment with google drive api and .git files (chromium extension)",
     "version": "1.0",
-    "author": "Amir E Marji"
+    "author": "Amir E Marji",
+    "icons": {
+        "128": "git-icon-1788C.png"
+      }
 }
     
